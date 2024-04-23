@@ -138,6 +138,32 @@ print(y_prednew)
 
 ## Output:
 
+### Dataset:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/669d8f53-69de-4b43-be44-994d10eb6f34)
+
+### dataset.dtypes:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/ebb56075-ffb6-43f7-ba14-7d46c180d855)
+
+### labeled_dataset:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/914e5f32-a0b7-43be-a6ea-42bcd2585405)
+
+### Dependent variable Y:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/52dff80f-9d16-4ea1-be8c-3734c0a1ac7a)
+
+### Accuracy:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/498236c3-b821-45b6-9cea-bb1f41201deb)
+
+### y_pred:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/1f576f39-94c0-4d2f-be21-2ea240844bd0)
+
+### Y:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/4de6cec9-da00-49a4-81d4-b75cf8e33986)
+
+### y_prednew:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/4159993b-852d-4ef6-952e-65ebc922b8e2)
+
+### y_prednew:
+![image](https://github.com/Ashwinkumar-03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118663725/8a496525-9f30-468e-bc9b-83c68e3d7bd6)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
